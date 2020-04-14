@@ -46,7 +46,7 @@ class RoundedSquareImageWithButtonWidget {
                   borderRadius: new BorderRadius.circular(10.0),
                 ),
                 child: Text(
-                  'İndir',
+                  +'İndir',
                   textAlign: TextAlign.center,
                   style: GSStyle.smallTextButtonStyle,
                 ),
