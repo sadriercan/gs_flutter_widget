@@ -53,7 +53,7 @@ class SquareCircleWithButtonWidget {
                   borderRadius: new BorderRadius.circular(10.0),
                 ),
                 child: Text(
-                  +'Detaylar'
+                  +'İndir'
                   textAlign: TextAlign.center,
                   style: GSStyle.smallTextButtonStyle,
                 ),
